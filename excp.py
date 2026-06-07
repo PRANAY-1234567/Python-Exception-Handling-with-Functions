@@ -6,7 +6,6 @@ def division(x, y):
     except ZeroDivisionError:
         print("Error in data : Divisor should not be zero")
 
-
 print("Program starts...")
 
 try:
